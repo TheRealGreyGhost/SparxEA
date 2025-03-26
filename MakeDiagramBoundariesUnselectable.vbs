@@ -4,7 +4,7 @@ option explicit
 
 ' Script Name: MakeDiagramBoundariesUnselectable
 ' Purpose: Makes all currently selectable Boundary elements in the diagram unselectable
-' Author: JCH with AI assist
+' Author: JCH with Grok AI assist
 ' Date: March 25, 2025
 
 sub main

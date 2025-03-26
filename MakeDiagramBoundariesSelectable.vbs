@@ -5,7 +5,7 @@ option explicit
 
 ' Script Name: MakeDiagramBoundariesSelectable
 ' Purpose: Makes all Boundary elements in the diagram selectable
-' JCH with AI assist.
+' JCH with Grok AI assist.
 ' Date: March 25, 2025
 
 sub main
